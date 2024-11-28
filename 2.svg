@@ -1,0 +1,13 @@
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="c0_2"><path d="M54.7 1220.6V54.7H880.3V1220.6Z"/></clipPath>
+<style>
+.g0_2{fill:none;stroke:#0176B5;stroke-width:2.291;stroke-miterlimit:10;}
+</style>
+</defs>
+<path d="M73.3 1038.1v-27.5c0-1.6 .6-2.9 1.7-4c1.1-1.1 2.5-1.7 4.1-1.7H230.3c1.6 0 2.9 .6 4.1 1.7c1.1 1.1 1.6 2.4 1.6 4v27.5c0 1.6-.5 3-1.6 4.1c-1.2 1.1-2.5 1.7-4.1 1.7H79.1c-1.6 0-3-.6-4.1-1.7c-1.1-1.1-1.7-2.5-1.7-4.1Z" class="g0_2"/>
+<g clip-path="url(#c0_2)">
+<image preserveAspectRatio="none" x="485" y="55" width="378" height="378" href="img/1.jpg"/>
+<image preserveAspectRatio="none" x="80" y="-87" width="229" height="228" href="img/2.jpg"/>
+</g>
+</svg>
